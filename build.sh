@@ -1,1 +1,1 @@
-docker build -t minblog:v1.0 .
+docker build -t mgblog:v1.0 .
